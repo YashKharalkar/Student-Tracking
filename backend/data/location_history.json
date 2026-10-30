@@ -1,0 +1,54 @@
+[
+  {
+    "id": "student_1792384639192_fgze",
+    "studentKey": "sumer jilalla___semester 7",
+    "name": "Sumer Jilalla",
+    "semester": "Semester 7",
+    "lat": 21.0047953,
+    "lng": 79.0480749,
+    "socketId": "vWBwSS8Ai3HFmBreAAAj",
+    "status": "disconnected",
+    "firstConnectedAt": "2026-10-19T04:37:19.191Z",
+    "disconnectedAt": "2026-10-19T09:57:09.192Z",
+    "timestamp": "2026-10-19T09:57:09.192Z"
+  },
+  {
+    "id": "student_1792250184240_c30v",
+    "studentKey": "yash kharalkar___semester 7",
+    "name": "Yash Kharalkar",
+    "semester": "Semester 7",
+    "lat": 21.0049007,
+    "lng": 79.0476732,
+    "socketId": "WtRZCO7ZTq7cj39CAAAe",
+    "status": "disconnected",
+    "firstConnectedAt": "2026-10-17T15:16:24.240Z",
+    "disconnectedAt": "2026-10-19T09:56:06.814Z",
+    "timestamp": "2026-10-19T09:56:06.814Z"
+  },
+  {
+    "id": "student_1792384653316_y2mw",
+    "studentKey": "singay wangchuk___semester 7",
+    "name": "singay wangchuk",
+    "semester": "Semester 7",
+    "lat": 21.0045852,
+    "lng": 79.0479122,
+    "socketId": "92s7wUBBi5HehUmsAAAR",
+    "status": "disconnected",
+    "firstConnectedAt": "2026-10-19T04:37:33.316Z",
+    "disconnectedAt": "2026-10-19T07:19:25.574Z",
+    "timestamp": "2026-10-19T07:19:25.574Z"
+  },
+  {
+    "id": "student_1792384613405_02ux",
+    "studentKey": "khushi khangar___semester 7",
+    "name": "Khushi Khangar",
+    "semester": "Semester 7",
+    "lat": 21.005385,
+    "lng": 79.0477648,
+    "socketId": "kHCX3EKQRGwt5crGAAAO",
+    "status": "disconnected",
+    "firstConnectedAt": "2026-10-19T04:36:53.405Z",
+    "disconnectedAt": "2026-10-19T07:06:29.641Z",
+    "timestamp": "2026-10-19T07:06:29.641Z"
+  }
+]

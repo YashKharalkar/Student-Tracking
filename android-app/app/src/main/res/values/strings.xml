@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Tracker</string>
+    <string name="title_portal">Student Tracking Portal</string>
+    <string name="subtitle_portal">College Live Location &amp; Attendance</string>
+    <string name="btn_start_tracking">START TRACKING</string>
+    <string name="instruction_text">Tap below to open the tracking link and start sharing your real-time location during college hours.</string>
+    <string name="server_url_dialog_title">Configure Server URL</string>
+    <string name="server_url_hint">http://192.168.1.5:5173</string>
+</resources>

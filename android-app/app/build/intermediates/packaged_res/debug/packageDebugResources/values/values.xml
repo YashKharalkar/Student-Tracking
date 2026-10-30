@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#06B6D4</color>
+    <color name="bg_dark">#0F172A</color>
+    <color name="card_bg">#1E293B</color>
+    <color name="card_border">#334155</color>
+    <color name="green_status">#10B981</color>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="red_error">#EF4444</color>
+    <color name="text_gray">#94A3B8</color>
+    <color name="text_white">#F8FAFC</color>
+    <string name="app_name">Student Tracker</string>
+    <string name="btn_start_tracking">START TRACKING</string>
+    <string name="instruction_text">Tap below to open the tracking link and start sharing your real-time location during college hours.</string>
+    <string name="server_url_dialog_title">Configure Server URL</string>
+    <string name="server_url_hint">http://192.168.1.5:5173</string>
+    <string name="subtitle_portal">College Live Location &amp; Attendance</string>
+    <string name="title_portal">Student Tracking Portal</string>
+    <style name="Theme.StudentTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color bg_dark
+color card_bg
+color card_border
+color green_status
+color primary
+color primary_dark
+color red_error
+color text_gray
+color text_white
+drawable btn_gradient
+drawable card_rounded_bg
+drawable ic_location
+drawable ic_settings
+id btnBackToHome
+id btnChangeUrl
+id btnRetry
+id btnSettings
+id btnStartTracking
+id errorLayout
+id progressBar
+id startLayout
+id txtCurrentUrl
+id txtErrorDetail
+id webView
+id webViewContainer
+layout activity_main
+string app_name
+string btn_start_tracking
+string instruction_text
+string server_url_dialog_title
+string server_url_hint
+string subtitle_portal
+string title_portal
+style Theme.StudentTracker

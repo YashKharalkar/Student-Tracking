@@ -46,8 +46,8 @@ If you want to track a phone that is **not** on the same Wi-Fi network (e.g. usi
    ```bash
    npm run tunnel
    ```
-4. This will run a secure SSH tunnel to `localhost.run` and print a secure, direct link like:
-   `https://xxxx.lhr.life`
+4. This will start ngrok and connect your permanent link:
+   `https://hasty-reactive-sandlot.ngrok-free.dev`
 
 ---
 

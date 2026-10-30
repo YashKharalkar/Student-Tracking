@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply m-0 p-0 font-sans bg-gray-50 text-gray-900;
+  }
+}
+
+/* Ensure Leaflet map takes full height where applied */
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  z-index: 10;
+}
